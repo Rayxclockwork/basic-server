@@ -1,0 +1,24 @@
+{
+  "name": "basic-server",
+  "version": "1.0.0",
+  "description": "this is a basic express server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rayxclockwork/basic-server.git"
+  },
+  "author": "Raven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rayxclockwork/basic-server/issues"
+  },
+  "homepage": "https://github.com/Rayxclockwork/basic-server#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
